@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ArrayProblem/src"/>
+	<classpathentry kind="src" path="FactorialCalculator/src"/>
+	<classpathentry kind="src" path="LeibnitzPICalculator/src"/>
+	<classpathentry kind="src" path="NumberPairer/src"/>
+	<classpathentry kind="src" path="piCalculation/src"/>
+	<classpathentry kind="output" path="ArrayProblem/bin"/>
+</classpath>
